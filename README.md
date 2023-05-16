@@ -17,10 +17,7 @@ These aspects are further modified by the type of environment that the user is c
 With all of this functionality, it was a big task to maintain a good user-friendly front end that still allows for full usage of the project, but has been done by using a small settings panel with clear labels and inputs.
 
 ## Youtube Video
-TODO
-
-## Screenshots
-TODO
+https://www.youtube.com/watch?v=raMynOrykuI
 
 
 ## Credits
